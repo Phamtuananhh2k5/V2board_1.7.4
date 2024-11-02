@@ -18,4 +18,4 @@ Nhờ giấy phép dự án mã nguồn mở được cung cấp bởi [Jetbrain
 🔔 Kênh Telegram: [@v2board](https://t.me/v2board)  
 
 ## Phản hồi
-Phiên bản được dịch bởi: [Đậu Đậu](https://zalo.me/0983538806)  
+Phiên bản được dịch bởi: [Pham anh]  
